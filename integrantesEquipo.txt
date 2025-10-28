@@ -1,12 +1,7 @@
-matrícula: A01742073
-nombre: Christopher Evans
-carrera: ITC
-matrícula: A01742073
-nombre: Christopher Evans
-carrera: ITC
-matrícula: A01742073
-nombre: Christopher Evans
-carrera: ITC
+Matrícula: A01712309
+Nombre: María Fernanda Beltrán
+Carrera: IMD
+
 matrícula: A01742073
 nombre: Christopher Evans
 carrera: ITC
