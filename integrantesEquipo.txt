@@ -5,3 +5,7 @@ Carrera: IMD
 matrícula: A01742073
 nombre: Christopher Evans
 carrera: ITC
+
+matrícula: A01286025
+nombre: Carlos Ramos
+carrera: IDM
